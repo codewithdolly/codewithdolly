@@ -6,8 +6,9 @@
 - 💬 Ask me about **HTML, CSS, javascript, Sass/scss, Bootstrap, MUI(material-ui), Reactjs, Nextjs**
 
 - 💡Also Ask me about  **Digital marketing, Content writing, SEO, Website design,Google Analytics, Google Search Console,Photoshop, Video editing**
-- 
-- 😀 Know more about me : **<a href="https://codewithdolly.netlify.app/" target="_blank">Portfolio</a>**
+
+- 👨‍💻 Know more about me : **<a href="https://codewithdolly.netlify.app/" target="_blank">Portfolio</a>**(got selected in Top 20
+by JS expert Akshay Saini🤩.)
 
 <!--
 <h3 align="left">Connect with me:</h3>
