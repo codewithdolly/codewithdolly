@@ -1,12 +1,14 @@
 <h1>Hello World,</h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+👩‍💻" /> </h3>
 
-<!-- 🌱 Learning Never Stops 🚀 -->
-<!-- 
+<!-- 🌱 Learning Never Stops 🚀
 💬 Ask me about **HTML, CSS, javascript, Sass/scss, Bootstrap, MUI(material-ui), Reactjs, Nextjs.**
-
-💡 
  -->
+ 
+ I'm a <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+👩‍💻" /> </h3>
+
+ I share my knowledge by creating projects & Coding videos.
+ Check out my Youtube channel- @codewithdolly
+ 
 💡My **<a href="https://codewithdolly.netlify.app/" target="_blank">Portfolio</a>** got selected in Top 20
    by JS expert <a href="https://www.linkedin.com/feed/update/urn:li:activity:6908809346789306368/"> **Akshay Saini**</a>🤩
    
