@@ -30,7 +30,7 @@
 <img alt="sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="mui" src="https://img.shields.io/badge/MUI(Material%20UI)-007FFF?style=for-the-badge&logo=mui&logoColor=white"/>
- <img alt="Motion" src="https://img.shields.io/badge/motion-007FFF?style=for-the-badge&logo=motion&logoColor=white"/>
+<!-- <img alt="Motion" src="https://img.shields.io/badge/motion-007FFF?style=for-the-badge&logo=motion&logoColor=white"/> -->
 <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 <img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
