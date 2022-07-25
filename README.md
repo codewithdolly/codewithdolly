@@ -12,13 +12,13 @@
    
  <h3 align="left">Connect with me:</h3>
 <div align="left">
-  <a href="https://www.linkedin.com/in/codewithdolly/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
-   <a href="https://www.instagram.com/codewithdolly/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-    <a href="https://www.facebook.com/codewithdolly/"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-385898?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-   <a href="https://twitter.com/CodeWithDolly/"><img alt="Twitter" src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="mailto:heydollysingh@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-   <a href="https://codewithdolly.netlify.app/#"><img alt="skype" src="https://img.shields.io/badge/skype-00B2FF?style=for-the-badge&logo=skype&logoColor=white"/></a>
-    <a href="https://www.youtube.com/channel/UCD4YW5rhsXi-BK2tzbWVIZA"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/codewithdolly/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a> 
+   <a href="https://www.instagram.com/codewithdolly/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+    <a href="https://www.facebook.com/codewithdolly/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-385898?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+   <a href="https://twitter.com/CodeWithDolly/" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="mailto:heydollysingh@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+   <a href="https://join.skype.com/invite/v9nUKn7Pih28" target="_blank"><img alt="skype" src="https://img.shields.io/badge/skype-00B2FF?style=for-the-badge&logo=skype&logoColor=white"/></a>
+    <a href="https://www.youtube.com/channel/UCD4YW5rhsXi-BK2tzbWVIZA" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </div>
 
 <h3 align="left">Web Tech Stack :</h3>
