@@ -8,7 +8,7 @@
 💡 Also Ask me about  **Digital marketing, Wordpress design, Content writing, SEO, Google Analytics, Google Search Console,Photoshop, Video editing.**
 
 👨‍💻 Know more about me : **<a href="https://codewithdolly.netlify.app/" target="_blank">Portfolio</a>**(got selected in Top 20
-   by JS expert Akshay Saini🤩)
+   by JS expert **Akshay Saini**🤩)
    
  <h3 align="left">Connect with me:</h3>
 <div align="left">
