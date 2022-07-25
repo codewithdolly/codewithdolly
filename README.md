@@ -1,13 +1,13 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/codewithdolly/" target="_blank"> Dolly Singh </a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+👩‍💻" /> </h3>
 
-- 🌱 Learning Never Stops 🚀
+🌱 Learning Never Stops 🚀
 
-- 💬 Ask me about **HTML, CSS, javascript, Sass/scss, Bootstrap, MUI(material-ui), Reactjs, Nextjs.**
+💬 Ask me about **HTML, CSS, javascript, Sass/scss, Bootstrap, MUI(material-ui), Reactjs, Nextjs.**
 
-- 💡 Also Ask me about  **Digital marketing, Wordpress design, Content writing, SEO, Google Analytics, Google Search Console,Photoshop, Video editing.**
+💡 Also Ask me about  **Digital marketing, Wordpress design, Content writing, SEO, Google Analytics, Google Search Console,Photoshop, Video editing.**
 
-- 👨‍💻 Know more about me : **<a href="https://codewithdolly.netlify.app/" target="_blank">Portfolio</a>**(got selected in Top 20
+👨‍💻 Know more about me : **<a href="https://codewithdolly.netlify.app/" target="_blank">Portfolio</a>**(got selected in Top 20
    by JS expert Akshay Saini🤩)
    
  <h3 align="left">Connect with me:</h3>
