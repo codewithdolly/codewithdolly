@@ -4,10 +4,10 @@
 💬 Ask me about **HTML, CSS, javascript, Sass/scss, Bootstrap, MUI(material-ui), Reactjs, Nextjs.**
  -->
  
- <div><h3><img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=I'm+a+Full+Stack+Developer+👩‍💻" /> </h3></div>
+ <h3><img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=I'm+a+Full+Stack+Developer+👩‍💻" /> </h3>
 
  I share my knowledge by creating projects & Coding videos.
- Check out my Youtube channel- @codewithdolly
+ Check out my Youtube channel- <a href="https://www.youtube.com/channel/UCD4YW5rhsXi-BK2tzbWVIZA">@codewithdolly</a>
  
 💡My **<a href="https://codewithdolly.netlify.app/" target="_blank">Portfolio</a>** got selected in Top 20
    by JS expert <a href="https://www.linkedin.com/feed/update/urn:li:activity:6908809346789306368/"> **Akshay Saini**</a>🤩
