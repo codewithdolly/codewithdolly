@@ -1,4 +1,4 @@
-<h1>👋 Hi, I'm <a href="https://www.linkedin.com/in/codewithdolly/" target="_blank"> Hello World, </a></h1>
+<h1>Hello World,</h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+👩‍💻" /> </h3>
 
 <!-- 🌱 Learning Never Stops 🚀 -->
