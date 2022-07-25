@@ -9,7 +9,7 @@
  I share my knowledge by creating projects & Coding videos.
  Check out my Youtube channel- <a href="https://www.youtube.com/channel/UCD4YW5rhsXi-BK2tzbWVIZA">@codewithdolly</a>
  
-💡My **<a href="https://codewithdolly.netlify.app/" target="_blank">Portfolio</a>** got selected in Top 20
+- My **<a href="https://codewithdolly.netlify.app/" target="_blank">Portfolio</a>** got selected in Top 20
    by JS expert <a href="https://www.linkedin.com/feed/update/urn:li:activity:6908809346789306368/"> **Akshay Saini**</a>🤩
    
  <h3 align="left">Connect with me:</h3>
@@ -48,7 +48,7 @@
 <h3 align="left">Databases :</h3>
 <div align="left">
   <img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%00758F.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div>
 
 <h3 align="left">Hosting :</h3>
