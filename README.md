@@ -60,7 +60,7 @@
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white"/> -->
 </div>
- <h3 align="left">Also interested in: </h3> Digital marketing, Wordpress design, Content writing, SEO, Google Analytics, Google Search Console,Photoshop, Video editing.
+ <h3 align="left">Also interested in: </h3> Digital marketing, Wordpress, Blogging, SEO, SMM, Google Analytics, Google Search Console,Photoshop, Video editing.
 <br/>
 
 <table>
