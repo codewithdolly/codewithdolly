@@ -61,7 +61,7 @@
   <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white"/> -->
 </div>
  <h3 align="left">Also interested in: </h3> Digital marketing, Wordpress, Blogging, SEO, SMM, Google Analytics, Google Search Console,Photoshop, Video editing.
-<br/><br/><br/>
+<br/><br/>
 
 <table>
   <tr>
