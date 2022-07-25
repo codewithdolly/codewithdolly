@@ -21,7 +21,7 @@
     <a href="https://www.youtube.com/channel/UCD4YW5rhsXi-BK2tzbWVIZA" target="_blank"><img alt="YouTube" src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </div>
 
-<h3 align="left">Web Tech Stack :</h3>
+<h3 align="left">Technologies:</h3>
 <div align="left">
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
 <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> 
@@ -34,6 +34,7 @@
 <!-- <img alt="DevTool" src="https://img.shields.io/badge/devtool-blue?style=for-the-badge&logo=devtool&logoColor=white"/> -->
 <img alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
 <img alt="NextJS" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<br />
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </div>
