@@ -1,11 +1,11 @@
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/codewithdolly/" target="_blank"> Dolly Singh </a></h1>
+<h1>👋 Hi, I'm <a href="https://www.linkedin.com/in/codewithdolly/" target="_blank"> Hello World, </a></h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+👩‍💻" /> </h3>
 
-🌱 Learning Never Stops 🚀
+<!-- 🌱 Learning Never Stops 🚀 -->
 <!-- 
 💬 Ask me about **HTML, CSS, javascript, Sass/scss, Bootstrap, MUI(material-ui), Reactjs, Nextjs.**
 
-💡 Also Ask me about  **Digital marketing, Wordpress design, Content writing, SEO, Google Analytics, Google Search Console,Photoshop, Video editing.**
+💡 
  -->
 💡My **<a href="https://codewithdolly.netlify.app/" target="_blank">Portfolio</a>** got selected in Top 20
    by JS expert <a href="https://www.linkedin.com/feed/update/urn:li:activity:6908809346789306368/"> **Akshay Saini**</a>🤩
@@ -38,6 +38,8 @@
 <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
 <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </div>
+
+<h3 align="left">Also interested in: </h3> Digital marketing, Wordpress design, Content writing, SEO, Google Analytics, Google Search Console,Photoshop, Video editing.
 
 <!-- <h3 align="left">Languages :</h3>
 <div align="left">
