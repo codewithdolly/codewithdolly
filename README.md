@@ -10,7 +10,8 @@
  Check out my Youtube channel- <a href="https://www.youtube.com/channel/UCD4YW5rhsXi-BK2tzbWVIZA">@codewithdolly</a>
  
  <h3 align="left">My Achievements:</h3>
--🏷️Won **HiCoder Website** Development competition for completing 14 paged website in 3 days from scratch.
+
+- 🏷️Won <b>HiCoder Website</b> Development competition for completing 14 paged website in 3 days from scratch.
 
 - 🏷️My **<a href="https://codewithdolly.netlify.app/" target="_blank">Portfolio</a>** got selected in Top 20
    by JS expert <a href="https://www.linkedin.com/feed/update/urn:li:activity:6908809346789306368/"> **Akshay Saini**</a>🤩
