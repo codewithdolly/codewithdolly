@@ -4,7 +4,7 @@
 💬 Ask me about **HTML, CSS, javascript, Sass/scss, Bootstrap, MUI(material-ui), Reactjs, Nextjs.**
  -->
  
- <div>I'm a <b> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+👩‍💻" /> </b></div>
+ <div>I'm a <h3> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+👩‍💻" /> </h3></div>
 
  I share my knowledge by creating projects & Coding videos.
  Check out my Youtube channel- @codewithdolly
