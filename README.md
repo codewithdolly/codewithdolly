@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/codewithdolly/" target="_blank"> Dolly Singh </a></h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+👩‍💻)" /> </h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+👩‍💻" /> </h3>
 
 - 🌱 Learning Never Stops 🚀
 
@@ -60,14 +60,14 @@
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=codewithdolly&show_icons=true&theme=dark&locale=en" alt="Dolly Singh" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithdolly&show_icons=true&theme=dark&locale=en&layout=compact" alt="Dolly Singh" /></td>
+<!--     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithdolly&show_icons=true&theme=dark&locale=en&layout=compact" alt="Dolly Singh" /></td> -->
   </tr>
 </table>
 
-<div align="center">
+<!-- <div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithdolly&theme=dark" alt="Dolly Singh" /></p>
   </div>
-
+ -->
 <!--
 **codewithdolly/codewithdolly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
