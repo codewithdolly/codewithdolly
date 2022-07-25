@@ -36,10 +36,10 @@
 <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </div>
 
-<h3 align="left">Languages :</h3>
+<!-- <h3 align="left">Languages :</h3>
 <div align="left">
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-</div>
+</div> -->
 
 <h3 align="left">Databases :</h3>
 <div align="left">
@@ -49,9 +49,10 @@
 
 <h3 align="left">Hosting :</h3>
 <div align="left">
-  <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
   <img alt="Firebase" src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"/>
-  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+   <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  
 <!--   <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
   <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white"/> -->
@@ -60,14 +61,14 @@
 <table>
   <tr>
     <td><img src="https://github-readme-stats.vercel.app/api?username=codewithdolly&show_icons=true&theme=dark&locale=en" alt="Dolly Singh" /></td>
-<!--     <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithdolly&show_icons=true&theme=dark&locale=en&layout=compact" alt="Dolly Singh" /></td> -->
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithdolly&show_icons=true&theme=dark&locale=en&layout=compact" alt="Dolly Singh" /></td>
   </tr>
 </table>
 
-<!-- <div align="center">
+<div align="center">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithdolly&theme=dark" alt="Dolly Singh" /></p>
   </div>
- -->
+
 <!--
 **codewithdolly/codewithdolly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
