@@ -36,10 +36,10 @@
 <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
 </div>
 
-<!-- <h3 align="left">Languages :</h3>
+<h3 align="left">Languages :</h3>
 <div align="left">
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> 
-</div> -->
+</div>
 
 <h3 align="left">Databases :</h3>
 <div align="left">
@@ -57,22 +57,17 @@
   <img alt="DigitalOcean" src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white"/> -->
 </div><br/>
 
-<!--
 <table>
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=jigar-sable&show_icons=true&theme=dark&locale=en" alt="jigar-sable" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=jigar-sable&show_icons=true&theme=dark&locale=en&layout=compact" alt="jigar-sable" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=codewithdolly&show_icons=true&theme=dark&locale=en" alt="Dolly Singh" /></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=codewithdolly&show_icons=true&theme=dark&locale=en&layout=compact" alt="Dolly Singh" /></td>
   </tr>
 </table>
 
 <div align="center">
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jigar-sable&theme=dark" alt="jigar-sable" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codewithdolly&theme=dark" alt="Dolly Singh" /></p>
   </div>
 
-
-
-
--->
 <!--
 **codewithdolly/codewithdolly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
