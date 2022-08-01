@@ -5,7 +5,6 @@
  -->
  
  <h3><img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=I'm+a+Full+Stack+Developer+👩‍💻" /> </h3>
- ![Profile Views](https://komarev.com/ghpvc/?username=codewithdolly&label=PROFILE+VIEWS)
 
  I share my knowledge by creating projects & Coding videos.
  Check out my Youtube channel- <a href="https://www.youtube.com/channel/UCD4YW5rhsXi-BK2tzbWVIZA">@codewithdolly</a>
